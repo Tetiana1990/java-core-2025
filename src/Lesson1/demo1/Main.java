@@ -37,12 +37,6 @@ public class Main {
 
     }
 };
-//Dog[] dogs = {
-//        new Dog(3,"Cooper","Labrador"),
-//        new Dog(5,"Finn","Beagle"),
-//        new Dog(2,"Charlie","German Shepherd"),
-//        new Dog(4,"Tucker","Bulldog"),
-//        new Dog(1,"Ollie","Poodle")
-//};
+
 
 
